@@ -1,0 +1,19 @@
+#+title: This Is A Title
+
+$$e = mc^2$$
+
+
+#+ATTR_LATEX: :booktabs t
+| Name   | Birthday |
+|--------+----------|
+| Aditya | 7 Jan    |
+| Durga  | 11 Jan   |
+| Vijay  | 24 Jan   |
+
+
+ #+BEGIN_SRC python :results output :exports both
+   print("Hello world!")
+ #+END_SRC
+
+ #+RESULTS:
+ : Hello world!
